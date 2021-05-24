@@ -11,8 +11,9 @@ q - 保存所有曲线生成curve1文件
 z - 生成机器人所需数据
 
 # 文件
-Generator.py 两个主要的类 例程也在这里，，，  
-Writing2.m 用来读本程序生成数据并配合实验平台写字实验使用的
+Src
+-Generator.py 两个主要的类 例程也在这里，，，  
+-Writing2.m 用来读本程序生成数据并配合实验平台写字实验使用的
 
 Installed 已经编译好的一份 它会自动读font1.png,curve1
 
